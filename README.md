@@ -1,4 +1,4 @@
-# So Workshop more or less
+# Workshop more or less
 
 ## Setup
 
@@ -22,13 +22,13 @@
 
 Type this command in terminal to run game 1
 
-```text
+```js
 node game1.js
 ```
 
 For game 2
 
-```text
+```js
 node game2.js
 ```
 
